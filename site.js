@@ -56,7 +56,7 @@
       var line=h.nextElementSibling;
       if(line && line.classList.contains('yearline')) line.classList.toggle('hide', !any);
     });
-    var covers=document.querySelector('.publist .covers');
+    var covers=document.querySelector('.covers');
     if(covers){
       covers.classList.toggle('hide', tag!=='all');
       var ch=covers.previousElementSibling;

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Srivastava Lab (small sizes)"><title>Srivastava Lab (small sizes)</title>
+  <g stroke="#c9812f" stroke-width="3.4" stroke-linecap="round"><line x1="32.0" y1="6.0" x2="32.0" y2="11.5"/><line x1="50.4" y1="13.6" x2="46.5" y2="17.5"/><line x1="58.0" y1="32.0" x2="52.5" y2="32.0"/><line x1="50.4" y1="50.4" x2="46.5" y2="46.5"/><line x1="32.0" y1="58.0" x2="32.0" y2="52.5"/><line x1="13.6" y1="50.4" x2="17.5" y2="46.5"/><line x1="6.0" y1="32.0" x2="11.5" y2="32.0"/><line x1="13.6" y1="13.6" x2="17.5" y2="17.5"/></g>
+  <circle cx="32" cy="32" r="20" fill="#e8f2f2"/>
+  <path d="M18 27q7-6 14 0t14 0" fill="none" stroke="#0f6e78" stroke-width="4.2" stroke-linecap="round"/>
+  <path d="M18 37q7-6 14 0t14 0" fill="none" stroke="#111820" stroke-width="4.2" stroke-linecap="round"/>
+</svg>
